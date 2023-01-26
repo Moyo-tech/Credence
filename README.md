@@ -1,5 +1,9 @@
 # Credence
-Credence is an eco-friendly solution that automates the way we make transactions and reduces the need for human interaction to verify payments; this solution is eco-friendly because, through Credence, a digital receipt is provided, and the need for paper receipts is minimized, thereby preserving the environment through energy efficiency and reduction of paper waste. 
+Credence is an eco-friendly mobile application solution that automates the way we make transactions and reduces the need for human interaction to verify payments; this solution is eco-friendly because, through Credence, a digital receipt is provided, and the need for paper receipts is minimized, thereby preserving the environment through energy efficiency and reduction of paper waste. 
+
+## Technologies Used
+ - React Native
+ - Javascript
 
 ## Prototyping and Diagramming
  - [Final Application Demo](https://drive.google.com/drive/folders/19aikOSonsrRcqTZ2vi_uYYIIZLygiizd?usp=sharing)

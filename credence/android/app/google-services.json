@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938355207204",
+    "project_id": "credenceapp-a1e62",
+    "storage_bucket": "credenceapp-a1e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938355207204:android:e260b5582c2ba6e13f7cb1",
+        "android_client_info": {
+          "package_name": "com.credence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938355207204-lqnuqpvqsv8guaoj9lsul7aikc9tpf2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-XJMdSQQZhATjg_00dQTI82zGbJ-0FbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938355207204-lqnuqpvqsv8guaoj9lsul7aikc9tpf2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

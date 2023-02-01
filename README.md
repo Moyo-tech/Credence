@@ -1,10 +1,10 @@
 # Project Title: Credence
 This README has been made easier to navigate through the following links: 
-- [Project Description]()
-- [Functionalities of the App]()
-- [Prototyping and Diagramming]()
-- [Screenshots]()
-- [How to Run]()
+- [Project Description](#project-description)
+- [Functionalities of the App](#functionalities-of-the-app)
+- [Prototyping and Diagramming](#prototyping-and-diagramming)
+- [Screenshots](#screenshots)
+- [How to Run](#how-to-run)
 
 [Clicl this link to view the app Demo](https://drive.google.com/drive/folders/19aikOSonsrRcqTZ2vi_uYYIIZLygiizd?usp=sharing)
 

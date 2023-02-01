@@ -29,6 +29,18 @@ Credence solves this problem by providing a convenient and accessible platform f
  - [High-fidelity Prototype](https://www.figma.com/file/Q8F1P3E4atctPsLj3hVpH9/Untitled?node-id=0%3A1)
 
 ## Screenshots
+Sign in               |  Client HomePage               | Scan QR-Code               |  Business- storeFront
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://i.postimg.cc/8kYWMGJ6/Screenshot-20230201-205618.jpg)|![](https://i.postimg.cc/hGR1xBYr/Screenshot-20230201-205704.jpg)|![](https://i.postimg.cc/LsVL1ZL9/Screenshot-20230201-205815.jpg)|![](https://i.postimg.cc/Ghp7hb0T/Screenshot-20230201-205824.jpg)|
+
+Orders-Page               |  Recent TransactionPage               | Business HomePage             |  Create StoreFront
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://i.postimg.cc/FRZpNBDx/Screenshot-20230201-205916.jpg)|![](https://i.postimg.cc/MpVyzLGj/Screenshot-20230201-205709.jpg)|![](https://i.postimg.cc/sDBYNxdm/Screenshot-20230201-205951.jpg)|![](https://i.postimg.cc/1Xdpzh6D/Screenshot-20230201-210000.jpg)|
+
+
+SideMenu             |   Share Storefront               |  Profile               
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://i.postimg.cc/k4X8FXvx/Screenshot-20230201-205713.jpg)|![](https://i.postimg.cc/PJX6DjPc/Screenshot-20230201-210010.jpg)|![](https://i.postimg.cc/L5G1pkKT/Screenshot-20230201-205936.jpg)|
 
 ## How to Run
  - Clone this repository

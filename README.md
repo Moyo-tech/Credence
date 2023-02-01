@@ -7,7 +7,7 @@ This README has been made easier to navigate through the following links:
 - [How to Run](#how-to-run)
 
 [Click this link to view the app Demo](https://drive.google.com/drive/folders/19aikOSonsrRcqTZ2vi_uYYIIZLygiizd?usp=sharing)
-**This Project was written in React-Native**
+
 
 ## Project Description
 
